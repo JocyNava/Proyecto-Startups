@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-color:  #F0F8FF;
+}
+img{
+    text-align: center;
+    width: 17%;
+    height: 17%;
+    display: block;
+    margin: 8px 20px;
+    padding: 5px;
+}
+div.section_1{
+    text-align: center;
+}
+section.logo_startup img{
+    text-align: center;
+    display: inline-block;
+    
+}
+.link_startup a{
+    display: block;
+    text-align: left;
+    margin-left: 2%;
+    padding: 10px;
+    font-size: 16px;
+}
+section article{
+    display: inline-block;
+    width: 17%;
+    margin:5px 20px;
+    padding-top: 5px;
+}
