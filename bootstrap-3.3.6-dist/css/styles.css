@@ -1,5 +1,4 @@
 *{
-<<<<<<< HEAD
 	margin: 0;
 	padding: 0;
 }
@@ -9,6 +8,7 @@ header {
 	height: 100%;
 	background-color: #B0CCFC;
 	margin-top: -1%;
+	text-align: center;
 }
 #logoproyecto{
 	width: 100%;
@@ -48,9 +48,6 @@ header {
 }
 
 
-=======
-    margin: 0;
-    padding: 0;
 }
 body{
     text-align: center;
@@ -85,4 +82,4 @@ section article{
     margin:5px 20px;
     padding-top: 5px;
 }
->>>>>>> cc992dafa4edcd796f2aaaef3866d137462d5bf2
+
