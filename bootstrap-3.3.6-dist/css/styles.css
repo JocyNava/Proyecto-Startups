@@ -2,12 +2,14 @@
 	margin: 0;
 	padding: 0;
 }
+
 /**header**/
 header {
 	width: 100%;
 	height: 100%;
 	background-color: #B0CCFC;
 	margin-top: -1%;
+	margin-bottom: 5%;
 	text-align: center;
 }
 #logoproyecto{
@@ -16,7 +18,7 @@ header {
 }
 .nuestrologo{
 	width: 10%;
-	margin-left: 45%;
+	text-align: center;
 }
 #botonesSeleccion{
 	text-align: center; 
@@ -46,40 +48,45 @@ header {
 .contenido{
 	margin-top: 3;
 }
-
-
-}
 body{
+	width: 100%;
     text-align: center;
     background-color:  #F0F8FF;
+    font-family: fantasy;
+}
+div.section_1{
+	margin-top: 20px;
+    text-align: center;
 }
 img{
     text-align: center;
-    width: 17%;
-    height: 17%;
-    display: block;
-    margin: 8px 20px;
+    width: 50%;
+    height: 60%;
     padding: 5px;
 }
-div.section_1{
+section.logo_startup img{	
     text-align: center;
+    display: block;
 }
-section.logo_startup img{
-    text-align: center;
-    display: inline-block;
-    
+#logo-vuelax{
+	margin-top: 11%;
+}
+#logo-vuelax img{
+	margin-top: -5%;
 }
 .link_startup a{
     display: block;
-    text-align: left;
-    margin-left: 2%;
+    text-align: center;
     padding: 10px;
     font-size: 16px;
 }
 section article{
-    display: inline-block;
-    width: 17%;
-    margin:5px 20px;
+	text-align: justify;
+    width: 100%;
+    margin-left: 40%;
     padding-top: 5px;
+}
+.section_2{
+	margin-top: 30%;
 }
 
