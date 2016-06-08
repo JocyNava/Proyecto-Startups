@@ -48,6 +48,8 @@ header {
 .contenido{
 	margin-top: 3;
 }
+
+/**body**/
 body{
 	width: 100%;
     text-align: center;
@@ -89,4 +91,33 @@ section article{
 .section_2{
 	margin-top: 30%;
 }
+/**footer**/
+
+/**pop**/
+.body-pop{
+	width: 100%;
+	height: 100%;
+}
+.pop-div_logo{
+	width: 25%;
+	height: 60%;
+}
+.pop-mapa{
+	width: 50%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#pop-startups_amigas{
+	width: 50%;
+    text-align: center;
+    margin-left: 55%;
+    margin-top: -25%;
+}
+.lista{
+	text-align: justify;
+	margin-top: 5%;
+	margin-left: 10%;
+}
+
+
 
