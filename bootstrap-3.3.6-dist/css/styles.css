@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 }
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 /**header**/
 header {
@@ -12,6 +13,7 @@ header {
 	margin-bottom: 5%;
 	text-align: center;
 }
+
 #logoproyecto{
 	width: 100%;
 	text-align: center;
@@ -49,12 +51,16 @@ header {
 	margin-top: 3;
 }
 
+<<<<<<< HEAD
 /**body**/
+=======
+/*Contenido*/
+>>>>>>> 90201f45ec752fcdea9d2154fe6ace9b46b31b64
 body{
 	width: 100%;
     text-align: center;
     background-color:  #F0F8FF;
-    font-family: fantasy;
+    font-family:'Montserrat', sans-serif,fantasy;
 }
 div.section_1{
 	margin-top: 20px;
@@ -63,7 +69,8 @@ div.section_1{
 img{
     text-align: center;
     width: 50%;
-    height: 60%;
+    
+    height:115PX;
     padding: 5px;
 }
 section.logo_startup img{	
@@ -87,10 +94,12 @@ section article{
     width: 100%;
     margin-left: 40%;
     padding-top: 5px;
+    margin-top: 10px;
 }
 .section_2{
 	margin-top: 30%;
 }
+<<<<<<< HEAD
 /**footer**/
 
 /**pop**/
@@ -121,3 +130,8 @@ section article{
 
 
 
+=======
+section{
+    margin-top: 15px;
+}
+>>>>>>> 90201f45ec752fcdea9d2154fe6ace9b46b31b64
