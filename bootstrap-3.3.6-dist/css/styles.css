@@ -8,7 +8,6 @@
 header {
 	width: 100%;
 	height: 100%;
-	background-color: #B0CCFC;
 	margin-top: -1%;
 	margin-bottom: 5%;
 	text-align: center;
@@ -51,15 +50,15 @@ header {
 	margin-top: 3;
 }
 
-<<<<<<< HEAD
+
 /**body**/
-=======
+
 /*Contenido*/
->>>>>>> 90201f45ec752fcdea9d2154fe6ace9b46b31b64
+
 body{
 	width: 100%;
     text-align: center;
-    background-color:  #F0F8FF;
+    background-color:  white;
     font-family:'Montserrat', sans-serif,fantasy;
 }
 div.section_1{
